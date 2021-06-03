@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "auto-rename-tag.activationOnLanguage": [
+    
+        "*"
+    ]
+}
