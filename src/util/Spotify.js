@@ -1,6 +1,6 @@
-// import ID from "./clientID";
+import ID from "./clientID";
 
-const clientID = '24b180b089264660a962f755668abcb0';
+const clientID = ID;
 const redirectUri = 'http://localhost:3000/'
 let accessToken;
 
