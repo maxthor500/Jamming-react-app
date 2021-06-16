@@ -1,7 +1,7 @@
 import ID from "./clientID";
 
 const clientID = ID;
-const redirectUri = 'http://localhost:3000/'
+const redirectUri = 'http://carmine-jamming.surge.sh'
 let accessToken;
 
 const Spotify = {
